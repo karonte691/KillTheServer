@@ -1,0 +1,8 @@
+KillTheServer(KTS) is a modular program that can perform several techniques of denial of service. Currently supports only ICMP flood, syn and http. It also implements a rudimentary version of the exploit killtheapache
+
+
+Warning: It's still an alpha version. Sometimes you can got a segmention fault when you choose an attack. It's a bug and I will fix it as soon as possible :)
+
+Some code is old C style because is not mine and it's written in C. I've tried to convert it in C++ but is so difficoult. I think I can re-write it all in C++ in the next version
+
+For any bugs or issue, please contact me on my email address blackstorm010[at]gmail.com
